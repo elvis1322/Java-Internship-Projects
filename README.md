@@ -22,6 +22,7 @@ This repository contains the tasks and projects developed during my **Java Devel
 ### Level 1: Basic Programming
 - **Task 1: Basic Calculator** - A CLI-based calculator for basic arithmetic operations.
 - **Task 2: Number Guessing Game** - An interactive game logic using `Random` and loops.
+- **Task 3: Factorial Calculationusing Recursion**
 
 ### Level 2: Intermediate Development
 - **Task 1: Employee Management System** - Implementing CRUD operations and data management.
